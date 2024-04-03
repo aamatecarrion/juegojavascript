@@ -1,15 +1,15 @@
 # juegojavascript
 
-Este juego ha sido creado para un trabajo de clase de programación en entorno cliente
+This is a mini shooting game I created for homework with plain js.
 
-Controles:
+Controls:
 
-W SALTAR
-A IZQUIERDA
-S BAJAR DE LA PLATAFORMA/AGACHARSE
-D DERECHA
+W JUMP
+A LEFT
+S GET OFF THE PLATFORM/CROUCH
+D RIGHT
 
-M SILENCIAR MÚSICA
-E CAMBIAR DE ARMA
-R RECARGAR
-P PAUSAR JUEGO
+M MUTE MUSIC
+E SWITCH WEAPON
+R RELOAD
+P PAUSE
