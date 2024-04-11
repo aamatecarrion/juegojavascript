@@ -4,7 +4,7 @@
 
 This is a mini shooting game I created for homework with plain js.
 The real purpose of this software was to show my coding skills, learn and have some fun.
-![Demo](https://aamatecarrion.github.io/juegojavascript/)
+[Demo](https://aamatecarrion.github.io/juegojavascript/)
 
 
 Controls:
